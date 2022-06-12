@@ -1,5 +1,7 @@
 - Hi, I’m @AliKales
 - I’m interested in Mobile App Development (currently with Flutter)
-- I’m currently improving my Flutter skills.
+- I’m currently creating Flutter projects
+- I use Firebase with Flutter
+- I used to work with C#, Python and Java
 - I'm open for any kind of job.
 - E-mail: ali.kales@hotmail.com
