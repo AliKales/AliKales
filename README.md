@@ -1,2 +1,2 @@
 # Hey!
-## I am a developer!
+## I am a front-end & back-end developer!
